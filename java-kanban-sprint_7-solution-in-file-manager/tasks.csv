@@ -1,0 +1,6 @@
+id,type,name,status,description,epic,startDate,duration
+1,TASK,Task,NEW,Discription,,2025-05-30T13:19:21.6995461,200
+2,EPIC,Epic,NEW,Epic,,2025-05-30T11:19:21.7125484,605
+4,SUBTASK,Subtask,NEW,Description,2,2025-05-30T11:19:21.7125484,100
+5,SUBTASK,Subtask2,NEW,Description2,2,2025-06-02T11:19:21.7125484,205
+6,SUBTASK,Subtask3,NEW,Description3,2,2025-06-05T11:19:21.7125484,300
